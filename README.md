@@ -9,3 +9,9 @@ By following the prompts a user can create an account and log in using the gener
 After this, the banking process begins. A user can select Transaction or Account option from the drop down and thus perform different processes. 
 A user can withdraw, deposit or transfer within banks if the transaction option is selected. 
 A user can view his/her dashboard and transaction history, edit account or erase data.
+
+# Visual Representation
+
+
+https://github.com/andesni/Online-Banking-System/assets/93085549/001b7a46-93a3-42da-8ff2-4e72381c0c46
+
