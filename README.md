@@ -1,6 +1,8 @@
 # Instalation
 To start with this program, you'll need an IDE compatible with Python and at least Java 8 like VSCode. A collection of extensions suggested by Microsoft: Language Support for Java by Red Hat, Debugger for Java, Test Runner for Java. 
-Note that this program includes the use of a GUI and consoles, so some private information may be displayed on the console.
+The program is ran from the Prime.java file as it is the Main. 
+ Note that this program includes the use of a GUI and consoles, so some private information may be displayed on the console.
+
 
 # Usage
 Once the program is running a user is able to create a new banking account or login to an existing account. 
