@@ -1,4 +1,4 @@
-# Instalation
+# Prerequisite
 To start with this program, you'll need an IDE compatible with Python and at least Java 8 like VSCode. A collection of extensions suggested by Microsoft: Language Support for Java by Red Hat, Debugger for Java, Test Runner for Java. 
 The program is ran from the Prime.java file as it is the Main. 
  Note that this program includes the use of a GUI and consoles, so some private information may be displayed on the console.
